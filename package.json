@@ -1,0 +1,14 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "Solutions for http://adventofcode.com/",
+  "main": "runner.js",
+  "scripts": {
+    "start": "node runner"
+  },
+  "author": "Darko Kukovec",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
