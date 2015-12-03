@@ -1,4 +1,4 @@
-module.exports = (input) => [
+module.exports = input => [
   input
     .split('\n')
     .map(x => x.split('x').map(y => ~~y))

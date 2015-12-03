@@ -2,7 +2,7 @@ var _ = require('lodash');
 var fs = require('fs');
 var path = require('path');
 
-var days = _.map([1, 2], x => x.toString());
+var days = _.map([1, 2, 3], x => x.toString());
 
 var day = process.argv[2];
 
