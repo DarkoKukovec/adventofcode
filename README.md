@@ -8,7 +8,7 @@
 ### Rules
 
 * only input is the lodash object with task input
-* no other dependencies
+* no other dependencies (other than some very specific, e.g. md5)
 * no variables & asignments
 * no returns (except for the arrow function ones)
 
