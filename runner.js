@@ -4,7 +4,7 @@ var path = require('path');
 
 var H = require('./helpers');
 
-var days = _.map([1, 2, 3, 4, 5], x => x.toString());
+var days = _.map([1, 2, 3, 4, 5, 6], x => x.toString());
 var day = process.argv[2];
 
 if (day) {
